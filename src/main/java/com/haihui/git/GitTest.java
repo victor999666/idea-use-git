@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("idea-use-Git1");
         System.out.println("idea-use-Git2");
         System.out.println("idea-use-Git3");
+        System.out.println("idea-use-Git33");
+        System.out.println("idea-use-Git66");
     }
 }
