@@ -6,5 +6,7 @@ package com.haihui.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("idea-use-Git1");
+        System.out.println("idea-use-Git33");
+        System.out.println("idea-use-Git66");
     }
 }
